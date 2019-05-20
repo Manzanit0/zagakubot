@@ -1,0 +1,14 @@
+{
+  "name": "zagakubot",
+  "version": "0.1.0",
+  "description": "A quick and dirty example bot to serve as example for a Zagaku",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Manzanit0",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0"
+  }
+}
